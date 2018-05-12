@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32035#La-roj--13-Kolekto-de-la-originalaj-verkoj-premiitaj-en-la-unua-literatura-konkurso-de--La-Re_
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2010-04-18'
 gutenberg_type: Text
